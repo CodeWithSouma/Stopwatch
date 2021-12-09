@@ -7,7 +7,7 @@
 .main-container{
     width: 100%;
     height: 100vh;
-    background-color:#B4C6A6;
+    background-color:#E0C097;
     position: relative;
 }
 .child-container{
@@ -21,7 +21,7 @@
 .child-container p{
     font-size: 5rem;
     margin: 0 0 40px 0;
-    color: #66806A;
+    color: #2D2424;
 }
 
 .start-btn{
@@ -30,24 +30,24 @@
     margin: 0 45px;
     border-radius: 40px;
     font-size: 1rem;
-    background-color: #66806A;
+    background-color: #B85C38;
     color: #F7F7F7; 
     text-transform: lowercase;
 }
 .start-btn:active{
-    background-color: #7a817b;
+    background-color: #5C3D2E;
 }
 .stop-btn{
     border: none;
     padding:10px 40px;
     border-radius: 40px;
     font-size: 1rem;
-    background-color: #66806A;
+    background-color: #B85C38;
     color: #F7F7F7;
     text-transform: lowercase;
 }
 .stop-btn:active{
-    background-color: #7a817b;
+    background-color: #5C3D2E;
 }
 .reset-btn{
     border: none;
@@ -55,10 +55,10 @@
     margin: 0 45px;
     border-radius: 40px;
     font-size: 1rem;
-    background-color: #66806A;
+    background-color: #B85C38;
     color: #F7F7F7;
     text-transform: lowercase;  
 }
 .reset-btn:active{
-    background-color: #7a817b;
+    background-color: #5C3D2E;
 }
